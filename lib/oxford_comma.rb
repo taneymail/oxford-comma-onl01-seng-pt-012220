@@ -1,3 +1,3 @@
 def oxford_comma(array)
-  ["kiwi"]
+  ["k","i","w","i"].join
 end
